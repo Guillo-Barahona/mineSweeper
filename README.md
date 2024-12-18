@@ -1,3 +1,3 @@
 # mineSweeper
-## https://guillo-barahona.github.io/mineSweeper/
-# Test realizado con IA
+## Test realizado con IA
+#### https://guillo-barahona.github.io/mineSweeper/
